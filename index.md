@@ -6,4 +6,4 @@
 <br>
 <h2>source informatives</h1>
 <a href="https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)">source1</a>
-<a href="https://www.pariszigzag.fr/paris-au-quotidien/margaret-hamilton-la-femme-a-lorigine-des-premiers-pas-de-lhomme-sur-la-lune">source2</a>
+<br><a href="https://www.pariszigzag.fr/paris-au-quotidien/margaret-hamilton-la-femme-a-lorigine-des-premiers-pas-de-lhomme-sur-la-lune">source2</a>
